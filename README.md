@@ -54,6 +54,4 @@ Product Images:
 
 -  `air2.png`
    ![image alt](https://github.com/kalamkarkrushna/E-commerce/blob/18977d9147b3a58213e25323eaf1226be5e7c5e3/img/air2.png)
-- `blazer.png`, `blazer2.png`
-- And more in the `img/` folder.
 
